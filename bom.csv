@@ -1,9 +1,9 @@
-PART,QTY,UNIT ($),TOTAL ($),VENDOR
-ESP32-C3 SuperMini Development Board,1,3.50,3.50,"AliExpress (Innovation IC Module Store)"
-0.91/0.96 inch OLED Display SSD1306,1,1.47,1.47,"AliExpress (EC-Buying Ali Store)"
-5Pcs TP4056 Lithium Battery Charger Module,1,2.52,2.52,"AliExpress (Shop910743113 Store)"
-MT3608 5V Boost Module,1,0.74,0.74,"AliExpress (THX Technology Store)"
-20Pcs SS12D00 Mini Slide Switch,1,1.09,1.09,"AliExpress (Ace Wong's store)"
-10Pcs 5V Active Buzzer,1,1.06,1.06,"AliExpress (CAG 222 Store)"
-10Pcs 6x6x7.3mm Tact Push Button Switch,1,0.13,0.13,"AliExpress (CanHui Enterprise Store)"
-Custom PCB Manufacturing,1,2.00,2.00,JLCPCB
+PART,QTY,PRICE_USD,SHIPPING_USD,TOTAL_USD,VENDOR
+ESP32-C3 SuperMini Development Board,1,3.50,0.49,3.99,"AliExpress (Innovation IC Module Store)"
+0.91/0.96 inch OLED Display SSD1306,1,1.47,0.51,1.98,"AliExpress (EC-Buying Ali Store)"
+5Pcs TP4056 Lithium Battery Charger Module,1,2.52,0.71,3.23,"AliExpress (Shop910743113 Store)"
+MT3608 5V Boost Module,1,0.74,0.00,0.74,"AliExpress (THX Technology Store)"
+20Pcs SS12D00 Mini Slide Switch,1,1.09,0.00,1.09,"AliExpress (Ace Wong's store)"
+10Pcs 5V Active Buzzer,1,1.06,0.36,1.42,"AliExpress (CAG 222 Store)"
+10Pcs 6x6x7.3mm Tact Push Button Switch,1,0.13,0.71,0.84,"AliExpress (CanHui Enterprise Store)"
+Custom PCB Manufacturing & Shipping,1,2.00,12.00,14.00,JLCPCB
