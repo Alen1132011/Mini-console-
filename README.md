@@ -9,17 +9,20 @@ Mini Console v1 is a small DIY retro gaming console built completely from scratc
 - **Mechanical Controls**: Six push buttons for movement, jumps, and selections.
 
 ## Hardware & Bill of Materials (BOM)
-- 1x ESP32-C3 SuperMini microcontroller
-- 1x 0.96" I2C OLED display
-- 6x THT push buttons (6mm)
-- 1x TP4056 battery charger module
-- 1x MT3608 5V boost module
-- 1x Buzzer for sound
-- 2x Ceramic capacitors (100nF)
-- 1x Electrolytic capacitor (10µF)
-- 1x Slide switch (SPST)
-- JST XH connectors
-- Custom double-sided PCB
+
+| Component | Quantity | Description |
+| :--- | :--- | :--- |
+| ESP32-C3 SuperMini | 1 | Microcontroller |
+| 0.96" I2C OLED Display | 1 | Screen for graphics rendering |
+| THT Push Buttons (6mm) | 6 | Mechanical controls |
+| TP4056 Battery Charger Module | 1 | Lithium battery charging |
+| MT3608 Boost Module | 1 | 5V voltage step-up |
+| Buzzer | 1 | Sound output |
+| Ceramic Capacitors (100nF) | 2 | Decoupling / Filtering |
+| Electrolytic Capacitor (10µF) | 1 | Power filtering |
+| Slide Switch (SPST) | 1 | Power toggle switch |
+| JST XH Connectors | Multiple | Cable connections |
+| Custom Double-Sided PCB | 1 | Circuit board designed in KiCad |
 
 ## Software & Code
 - Written in the Arduino IDE environment using the `Adafruit_GFX` and `Adafruit_SSD1306` libraries for screen rendering.
